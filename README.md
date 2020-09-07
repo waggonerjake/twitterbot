@@ -10,5 +10,4 @@ uses selenium and chromewebdriver to login to twitter and create a tweet
     1.) Copy exampleconfig.json to config.json
     2.) Fill in your username and password information in the correct fields
     3.) Replace the "Hello World!" tweet with the tweet you actually want to post
-    4.) Run "bundle install"
-    5.) Run "bundle exec ruby bot.rb"
+    4.) Run "./runBot.sh"
